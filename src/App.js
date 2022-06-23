@@ -8,6 +8,7 @@ import Dashboard from './components/dashboard';
 
 
 
+
 function App() {
 
   const[isLogged, setIsLogged] = useState(false);
@@ -23,6 +24,8 @@ function App() {
 
   return (
     <Container>
+
+
       <Switch>
         
       <Route exact path={'/'}>

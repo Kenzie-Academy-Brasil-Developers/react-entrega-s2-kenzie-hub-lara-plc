@@ -8,7 +8,7 @@ import { useState } from 'react';
 
 import {Redirect} from 'react-router-dom'
 import axios from 'axios';
-import toast from 'toastify'
+import {toast} from 'react-toastify'
 import {Container} from '@mui/material'
 
 

@@ -4,8 +4,6 @@ import { yupResolver } from '@hookform/resolvers/yup';
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
-import { useState } from 'react';
-
 import {Redirect, useHistory} from 'react-router-dom'
 import axios from 'axios';
 import toast from 'toastify'

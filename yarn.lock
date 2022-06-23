@@ -10664,6 +10664,7 @@ __metadata:
     react-hook-form: "npm:^7.32.2"
     react-router-dom: "npm:5"
     react-scripts: "npm:5.0.1"
+    react-toastify: "npm:^9.0.5"
     toastify: "npm:^2.0.1"
     web-vitals: "npm:^2.1.0"
     yup: "npm:^0.32.11"
@@ -10815,6 +10816,18 @@ __metadata:
   bin:
     react-scripts: bin/react-scripts.js
   checksum: 5cdcd909b5fd5a5dffc77ab275ff74cfb2c1b7899b6044128997ffe928b4c8d439913426009484b902b8fc75a2f02df4e962c673447e778fd8c71f81cac4d63e
+  languageName: node
+  linkType: hard
+
+"react-toastify@npm:^9.0.5":
+  version: 9.0.5
+  resolution: "react-toastify@npm:9.0.5"
+  dependencies:
+    clsx: "npm:^1.1.1"
+  peerDependencies:
+    react: ">=16"
+    react-dom: ">=16"
+  checksum: 9b4caa650995747d8bd46a294d997ef2aa783a58a2acec7607255d1ec69d2e3c394c1c5765475a65071400f436b7045fa4b33b3955bbf219fb00fbb09357f157
   languageName: node
   linkType: hard
 
